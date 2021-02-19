@@ -1,5 +1,5 @@
-# GEOG458_Lab4
-Wedmap of Modified Basemap and Thematic Map
+# GEOG458_Lab4: Tiled Maps
+
 Link to the Webmap: https://zejunoliviazheng.github.io/Tile_Generation.io/
 
 ## Tile 1 - Modified Basemap
